@@ -1,0 +1,33 @@
+{
+  "uczelnia": {
+    "author": "Jan Kowalski",
+    "studenci": [
+      {
+        "indexNumber": "s1234",
+        "firstName": "Jan",
+        "lastName": "Kowalski",
+        "birthDate": "02.05.1980",
+        "email": "kowalski@wp.pl",
+        "mothersName": "Alina",
+        "fatherName": "Jan",
+        "studies": {
+          "name": "Computer Science",
+          "mode": "Dzienne"
+        }
+      },
+      {
+        "indexNumber": "s2432",
+        "firstName": "Anna",
+        "lastName": "Malewska",
+        "birthDate": "07.10.1985",
+        "email": "malewska@wp.pl",
+        "mothersName": "Marta",
+        "fatherName": "Marcin",
+        "studies": {
+          "name": "New Media Art",
+          "mode": "Zaoczne"
+        }
+      }
+    ]
+  }
+}

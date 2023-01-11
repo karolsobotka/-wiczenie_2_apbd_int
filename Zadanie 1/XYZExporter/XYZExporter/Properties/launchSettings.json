@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XYZExporter": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\\\..\\\\..\\\\dane.csv ..\\\\..\\\\..\\\\result json"
+    }
+  }
+}

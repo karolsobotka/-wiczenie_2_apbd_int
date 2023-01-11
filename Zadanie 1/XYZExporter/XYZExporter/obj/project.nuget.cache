@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8eBJuoXbOMNngQntSE35fgTV2ePKDh6dfqWQ5xhZOEdj9js/ChaLReceDf+W91hIGWZRXPSan0GhZEt+JDHWhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WIN\\Source\\Repos\\PJATK-Database-department\\cwiczenia2_mp-s20439\\Zadanie 1\\XYZExporter\\XYZExporter\\XYZExporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WIN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
